@@ -3,7 +3,7 @@
 - 🌱 I’m currently taking Harvard's CS50's Introduction to Cybersecurity online course.
 - 💞️ I’m looking to collaborate on beginner-intermediate projects to start getting real-world experience.
 - 📫 You can reach me on Discord with a short message via this username tjc1236.
-- 💪 My current strengths are mostly in basic hardware such as building PCs or Mining Rigs. 
+- 💪 My current strengths are mostly in basic hardware as I have built PCs and mining rigs and some strength in 3d Printing. 
 
 <!---
 tylercorbiere/tylercorbiere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
